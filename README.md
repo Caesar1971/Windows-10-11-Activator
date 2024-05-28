@@ -5,7 +5,7 @@ You can also run this in Powershell(Make sure to run it as Administrator)
 
 
 
-irm https://get.activated.win | iex
+"irm https://get.activated.win | iex"
 
 
 
