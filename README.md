@@ -4,9 +4,9 @@
 You can also run this in Powershell(Make sure to run it as Administrator)
 
 
-
+```
 "irm https://get.activated.win | iex"
-
+```
 
 
 COPY THE ABOVE CODE AND PASTE IT IN YOU'RE POWERSHELL
