@@ -25,4 +25,6 @@ Enjoy!!
 One more thing!
 It might say that this is harmful... but trust me, it's not the only reason it's marked as harmful is because it is related to KMS which
 is marked as "Harmful"
-The second reason is because it is  a ".cmd" format which is also rumored to be harmful!!
+The second reason is because it is  a ".cmd" format which is also marked to be harmful!!
+
+***This is a MAS Script (Microsoft Activation Script)***
